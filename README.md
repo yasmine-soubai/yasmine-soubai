@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😄
 I'm Yasmine and I'm a software engineer located in Atlanta. I majored in Computer Science with a concentration in People and Artificial Intelligence at Georgia Tech. I'm interested in full-stack development and machine learning. 
 
 | <a href="https://github.com/yasmine-soubai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmine-soubai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yasmine's github stats" /></a> | <a href="https://github.com/yasmine-soubai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmine-soubai&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -7,7 +7,7 @@ I'm Yasmine and I'm a software engineer located in Atlanta. I majored in Compute
 #### Top Repositories
 
 
-<a href="https://github.com/yasmine-soubai/github-readme-stats">
+<a href="https://github.com/yasmine-soubai/Smart-Doorbell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmine-soubai&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/yasmine-soubai/anuraghazra.github.io">
