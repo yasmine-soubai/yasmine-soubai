@@ -8,7 +8,7 @@ I'm Yasmine and I'm a software engineer located in Atlanta. I majored in Compute
 
 
 <a href="https://github.com/yasmine-soubai/Smart-Doorbell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmine-soubai&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github.com/yasmine-soubai/Smart-Doorbell" />
 </a>
 <a href="https://github.com/yasmine-soubai/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmine-soubai&repo=anuraghazra.github.io&theme=buefy" />
